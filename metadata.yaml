@@ -1,5 +1,8 @@
 _repo: Look-out-for-paint-A-farce-comedy-in-three-acts_69690
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69690-h/images/cover.jpg
 creator:
   author:
     agent_name: Shea, Cornelius
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '42153'
     url: http://www.gutenberg.org/2009/agents/42153
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69690#Look-out-for-paint-A-farce-comedy-in-three-acts
 gutenberg_issued: '2023-01-02'
 identifiers:
   gutenberg: '69690'
